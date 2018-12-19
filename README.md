@@ -16,3 +16,4 @@ phpStorm-webStorm-skills
 006. [快捷键Ctrl + Alt + Left 或Right不起作用](docs/005.phpstorm快捷键.md )
 007. [PHPstorm如何安装vue.js插件](https://www.cnblogs.com/Worssmagee1002/p/6728481.html)
 008. [PHPstorm 本地修改的代码自动同步到远程服务器](https://www.cnblogs.com/kccdzz/p/9184304.html)
+009. [如何优雅的使用 PHPstorm](https://lattecake.com/post/20075)(https://juejin.im/entry/57eb3de80e3dd900583b207c)
